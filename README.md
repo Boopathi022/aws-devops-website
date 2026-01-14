@@ -87,7 +87,7 @@ Deploys application to server or cloud platform
 
     .github/
       └── workflows/
-            └── pipeline.yml
+            └── deploy.yml
 
 
 
